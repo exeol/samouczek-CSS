@@ -1,18 +1,7 @@
-h2{
-    font-size: 24px;
-}
-
-#content-header{
-    font-size: 18px;
+span{
     color: red;
-
 }
 
 span{
-    display: block;
     color: blue;
-}
-
-.klasa{
-    color: red;
 }
