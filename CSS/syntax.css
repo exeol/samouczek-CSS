@@ -1,7 +1,6 @@
-p{
+p, span{
     color: red;
-}
-
-.ttt{
-    color: green;
+    font-size: 14px;
+    font-weight: bold;
+    font-family: Arial;
 }
