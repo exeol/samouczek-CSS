@@ -1,6 +1,3 @@
-p, span{
-    color: red;
-    font-size: 14px;
-    font-weight: bold;
-    font-family: Arial;
+#main-content #sub-content p{
+ color: red;
 }
