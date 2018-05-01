@@ -1,7 +1,11 @@
-span{
+p{
     color: red;
 }
 
-span{
-    color: blue;
+.ttt{
+    color: green;
+}
+
+strong{
+    color: black;
 }
