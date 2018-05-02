@@ -1,19 +1,4 @@
-a:hover{
-    color: red;
-}
 
-a:active{
-    color: orange;
-}
-
-a:visited{
-    color: purple;
-}
-
-article:nth-of-type(2){
-    color: pink;
-}
-
-div:nth-child(2){
-    background: greenyellow;
+.featured-content{
+    background: pink;
 }
