@@ -10,13 +10,10 @@ a:visited{
     color: purple;
 }
 
+article:nth-of-type(2){
+    color: pink;
+}
 
-li:nth-child(1), li:nth-child(7){
-    color: green;
-}
-li:nth-child(odd){
-    background: grey;
-}
-li:nth-child(even){
-    background: pink;
+div:nth-child(2){
+    background: greenyellow;
 }
