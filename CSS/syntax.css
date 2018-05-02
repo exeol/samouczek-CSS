@@ -1,4 +1,7 @@
+*{
+    color: black;
+}
 
-.featured-content{
-    background: pink;
+p{
+    color: red;
 }
