@@ -1,3 +1,7 @@
-span[class~="kotek"]{
-    color: brown;
+span:hover{
+    color: blue
+}
+
+#main-content:hover{
+    background: red;
 }
