@@ -9,3 +9,14 @@ a:active{
 a:visited{
     color: purple;
 }
+
+
+li:nth-child(1), li:nth-child(7){
+    color: green;
+}
+li:nth-child(odd){
+    background: grey;
+}
+li:nth-child(even){
+    background: pink;
+}
