@@ -1,7 +1,4 @@
-p:nth-child(3){
-    color: red;
-    background-color: antiquewhite;
-}
-p:nth-child(2){
-    color: green;
+p{
+    word-spacing: 10px;
+    line-height: 48px;
 }
