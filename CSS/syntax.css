@@ -1,3 +1,7 @@
-p{
-    text-transform: normal;
+p:nth-child(3){
+    color: red;
+    background-color: antiquewhite;
+}
+p:nth-child(2){
+    color: green;
 }
