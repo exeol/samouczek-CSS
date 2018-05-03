@@ -1,9 +1,4 @@
-
-article{
-    text-decoration: line-through;
-}
-
-
-a{
-    text-decoration: none;
+p{
+    font-weight: lighter;
+    font-family: "Yu Gothic";
 }
