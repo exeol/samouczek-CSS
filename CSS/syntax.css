@@ -7,11 +7,18 @@
     border: 2px solid black;
     background-size: 20%;
 }
-*/
+
 .banner{
     background-color: grey;
     width: 100%;
     height: 300px;
     background-image: url(../kaczka.jpeg), url(../tło.jpg);
     background-repeat: no-repeat, repeat;
+}
+*/
+
+.banner{
+    width: 100%;
+    height: 300px;
+    background-color: #ff0000;
 }
